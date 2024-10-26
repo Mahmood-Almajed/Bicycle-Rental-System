@@ -1,7 +1,7 @@
 
 
 
-## Choosing a Good Name - Bicycle Rental System
+# Choosing a Good Name - Bicycle Rental System
 
 Selecting a fitting and memorable name for your Bicycle Rental System is essential to building a recognizable brand identity. The chosen name should reflect the essence of your bike rental service and be easy for users to recall. Below is how we arrived at the name for our Bicycle Rental System.
 
