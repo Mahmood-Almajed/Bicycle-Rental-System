@@ -1,6 +1,3 @@
-
-
-
 # Choosing a Good Name - Bicycle Rental System
 
 Selecting a fitting and memorable name for your Bicycle Rental System is essential to building a recognizable brand identity. The chosen name should reflect the essence of your bike rental service and be easy for users to recall. Below is how we arrived at the name for our Bicycle Rental System.
@@ -25,19 +22,19 @@ Selecting a fitting and memorable name for your Bicycle Rental System is essenti
    A voting session was conducted where team members selected their favorite name from the top 5 list. 
 
 5. **Final Decision:**
-   After reviewing the votes, the team decided that "**Cyclocity**" best represented our Bicycle Rental System.
+   After reviewing the votes, the team decided that "**RideBook**" best represented our Bicycle Rental System.
 
-### Why Cyclocity?
+### Why RideBook?
 
 - **Memorable and Catchy:**
   The name is easy to remember, making it more likely that users will recall it when looking for bike rental services.
 
-- **Urban and Dynamic:**
-  "Cyclocity" captures the idea of cycling in urban environments, making it an ideal fit for city-based bike rentals.
+- **Focus on Users:**
+  "RideBook" highlights the system's core function of booking rides and emphasizes the ease of managing rentals for users.
 
 ## Conclusion:
 
-Choosing the right name for your Bicycle Rental System involves collaborative brainstorming, tool assistance, and team discussions. By using tools like [Namelix](https://namelix.com) and engaging the team in the decision-making process, we arrived at "Cyclocity" — a name that captures our service’s urban focus and ease of use.
+Choosing the right name for your Bicycle Rental System involves collaborative brainstorming, tool assistance, and team discussions. By using tools like [Namelix](https://namelix.com) and engaging the team in the decision-making process, we arrived at "RideBook" — a name that captures our focus on ease of use and efficient rental management.
 
 ---
 
