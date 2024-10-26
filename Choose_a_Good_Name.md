@@ -1,6 +1,5 @@
 
 
-The bike rental system is designed to provide an easy-to-use and efficient bike rental platform. The system serves different stakeholders including individual users, fleet managers, and administrative staff. It aims to facilitate smooth bike rental and return operations, manage fleet logistics, and provide insightful analytics.
 
 ## Choosing a Good Name - Bicycle Rental System
 
