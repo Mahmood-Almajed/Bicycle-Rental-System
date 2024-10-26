@@ -1,6 +1,4 @@
-# Bicycle Rental System
 
-Welcome to the official GitHub page for the **Bicycle Rental System**! This project is part of the University of Bahrain's College of IT and is developed by students from the **ITSE476 - Free and Open-Source Software Development** course. We are thrilled to share this open-source solution with the community. 
 
 The bike rental system is designed to provide an easy-to-use and efficient bike rental platform. The system serves different stakeholders including individual users, fleet managers, and administrative staff. It aims to facilitate smooth bike rental and return operations, manage fleet logistics, and provide insightful analytics.
 
