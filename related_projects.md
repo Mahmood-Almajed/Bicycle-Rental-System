@@ -26,8 +26,8 @@ A list of GitHub projects that could be useful for bicycle rental systems.
 - **Description**: A project that focuses on analyzing bike-sharing data using Jupyter Notebooks, including data wrangling and visualization.
 - **GitHub Link**: [Bike Sharing Analysis](https://github.com/fikrionii/Dicoding-Bike-Sharing)
 
-## 5. Bike Rental Prediction by raphaelbdias
-- **Stars**: 21
-- **Language**: Python (Machine Learning)
-- **Description**: A machine learning project that predicts bike rental demand based on various factors like weather and time.
-- **GitHub Link**: [Bike Rental Prediction](https://github.com/raphaelbdias/Bike-rental-prediction)
+## 5. Cyclerr - Bicycle Rental Management System by rmdharshini
+- **Stars**: 7
+- **Language**: Java, HTML, CSS, JavaScript, MySQL
+- **Description**: A dynamic web application that allows users to rent and return bicycles, featuring an extendable timer for rentals.
+- **GitHub Link**: [Project Cyclerr](https://github.com/rmdharshini/Project-Cyclerr)
