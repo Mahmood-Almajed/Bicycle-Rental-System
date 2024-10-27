@@ -20,11 +20,12 @@ A list of GitHub projects that could be useful for bicycle rental systems.
 - **Description**: A JavaScript-based bike rental system with a focus on managing bike rentals and inventory through a user-friendly interface.
 - **GitHub Link**: [Bike Rental System](https://github.com/sabbir-hossain-abir/Bike-Rental-System)
 
-## 4. Bike Rental System by gurupratap-matharu
-- **Stars**: 76
-- **Language**: Python
-- **Description**: A bike rental system implemented in Python that allows customers to rent bikes on an hourly, daily, or weekly basis.
-- **GitHub Link**: [Bike Rental System](https://github.com/gurupratap-matharu/Bike-Rental-System)
+## 4. Bike Rental System by zrusev
+- **Stars**: 2
+- **Language**: TypeScript
+- **Description**: A bike rental system written in Angular.
+- **GitHub Link**: [Bike Rental System](https://github.com/zrusev/bike-rental-system)
+
 
 ## 5. Cyclerr - Bicycle Rental Management System by rmdharshini
 - **Stars**: 7
