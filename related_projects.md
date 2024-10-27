@@ -9,7 +9,7 @@ A list of GitHub projects that could be useful for bicycle rental systems.
 - **GitHub Link**: [Bike Rental System](https://github.com/gurupratap-matharu/Bike-Rental-System)
 
 ## 2. Bike Rental System by Preetham-MSK
-- **Stars**: 2
+- **Stars**: 4
 - **Language**: PHP, MySQL
 - **Description**: A web-based bike rental system that allows users to book bikes online based on their location.
 - **GitHub Link**: [Bike Rental System](https://github.com/Preetham-MSK/Bike-Rental-System)
